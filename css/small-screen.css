@@ -314,8 +314,8 @@ a.top-link:before {
   content: 'Zur Übersicht'; }
 
 #section-navigation ul li a {
-  font-family: TheSerifB6-Semi-Bold;
-  font-size: 22px;
+  font-family: TheSansPlain;
+  font-size: 18px;
   color: #666; }
 
 #section-navigation ul li {
